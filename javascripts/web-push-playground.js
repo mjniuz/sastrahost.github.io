@@ -68,7 +68,7 @@ function hookTagData() {
             .then(function() {
                 swal({
                     title: "You've been tagged!",
-                    text: "Check out the <a href='https://onesignal.com/apps/fc6d5514-687f-4765-bd11-431b312b17fc/players'>All Users page</a> (be sure to <a href='https://onesignal.com'>login first</a>) of your dashboard to see your tagged user entry.",
+                    text: "Check out the <a href='https://onesignal.com/apps/d6929160-35b3-40a8-91ef-5a3a17168c93/players'>All Users page</a> (be sure to <a href='https://onesignal.com'>login first</a>) of your dashboard to see your tagged user entry.",
                     html: true,
                     type: "success"
                 })
